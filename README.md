@@ -4,7 +4,7 @@ MachiKania type Z Compact（以下、MachiKania Zc）は、ケンケンさん、
 回路図およびブートローダプログラムの書き込み方法などについては、下記のケンケンさんのWebページをご参照ください。
 
 カラーグラフィック対応BASIC搭載テレビゲームシステム「MachiKania type Z」
-http://www.ze.em-net.ne.jp/~kenken/machikania/typez.html
+<http://www.ze.em-net.ne.jp/~kenken/machikania/typez.html>
 
 なお、裏面のジャンパーの設定で、microSDカードやキーボード無しに、ゲーム専用機として作ることもできます。（詳細は後述します）
 
