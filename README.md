@@ -8,7 +8,7 @@ http://www.ze.em-net.ne.jp/~kenken/machikania/typez.html
 
 なお、裏面のジャンパーの設定で、microSDカードやキーボード無しに、ゲーム専用機として作ることもできます。（詳細は後述します）
 
-PIC32MXワンチップテレビゲーム パックマン
+PIC32MXワンチップテレビゲーム パックマン<BR>
 http://www.ze.em-net.ne.jp/~kenken/pacman-g/index.html
 
 MachiKania Zcの特徴
