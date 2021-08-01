@@ -1,4 +1,5 @@
 # MachiKania-MachiKaniaZc
+![DSC09939](https://user-images.githubusercontent.com/62051355/127756625-6e2c6678-7443-44e2-bc20-7ae915c8f1a4.JPG)
 
 MachiKania type Z Compact（以下、MachiKania Zc）は、ケンケンさん、Katusmiさんが作られた、MachiKania type Z の互換機です。
 回路図およびブートローダプログラムの書き込み方法などについては、下記のケンケンさんのWebページをご参照ください。
